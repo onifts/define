@@ -11,3 +11,6 @@
 
 # Service Worker
 - https://developers.google.com/web/fundamentals/primers/service-workers?hl=ko
+
+# Manifest.json
+- https://web.dev/add-manifest/
