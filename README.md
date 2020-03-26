@@ -14,3 +14,9 @@
 
 # Manifest.json
 - https://web.dev/add-manifest/
+
+# aws 
+
+> Route53, Hosted-Zone, Domain 
+> SSL
+
