@@ -22,6 +22,7 @@
 - 리소스의 상태를 모니터링할 수 있습니다.
 - Hosted-Zone (호스팅 영역 생성)
   - Domain -> DNS  
+- Record Set
 
 > ACM (AWS Certificate Manager)
 - SSL/TLS
