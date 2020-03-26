@@ -23,6 +23,7 @@
 - Hosted-Zone (호스팅 영역 생성)
   - Domain -> DNS  
 - Record Set
+  - ELB 연결 
 
 > ACM (AWS Certificate Manager)
 - SSL/TLS
