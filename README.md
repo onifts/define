@@ -22,5 +22,10 @@
 - 리소스의 상태를 모니터링할 수 있습니다.
 - Hosted-Zone (호스팅 영역 생성)
   - Domain -> DNS  
+
 > ACM (AWS Certificate Manager)
 - SSL/TLS
+
+> Ref
+- https://velog.io/@minholee_93/AWS-ELB-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-mfk4dpjrd6
+
