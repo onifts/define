@@ -37,3 +37,16 @@
 # Nginx ( Engine X )
 
 > Dev
+
+# GIF 
+
+- https://tenor.com/
+- https://giphy.com/
+
+# Domain
+
+- https://www.viaweb.co.kr/
+- https://sg.godaddy.com/
+
+
+
