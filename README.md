@@ -36,7 +36,9 @@
   - sticky session 
 
 > S3 (Simple Storage Service)
-
+  - S3 => Glacier 자동 백업 (오랜 된 파일은 저가 storage로 이동해서 보관(archive,아카이브)
+  - https://bluese05.tistory.com/39
+  
 > Ref
 - https://velog.io/@minholee_93/AWS-ELB-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-mfk4dpjrd6
 
