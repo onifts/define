@@ -36,6 +36,7 @@
   - sticky session 
 
 > S3 (Simple Storage Service)
+  - bucket (버킷) === 폴드 
   - S3 => Glacier 자동 백업 (오랜 된 파일은 저가 storage로 이동해서 보관(archive,아카이브)
   - https://bluese05.tistory.com/39
   
