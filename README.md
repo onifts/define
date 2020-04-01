@@ -43,6 +43,7 @@
 > CloudFront 
   - AWS CDN(Content Delivery Network)
   - 전세계 AWS 각 리전의 로케이션에 리소스 복사본을 미리 로드해놓고, 사용자들이 짧은 지연 시간에 파일을 받을 수 있도록 해준다. 
+  - https://musma.github.io/2019/06/29/publish-static-assets-over-https-using-cloudfront.html
 
 > Ref
 - https://velog.io/@minholee_93/AWS-ELB-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-mfk4dpjrd6
