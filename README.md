@@ -32,6 +32,7 @@
 
 > ELB (Elastic Load Balancer)
 - EC2 2개 
+- sticky session 
 
 > Ref
 - https://velog.io/@minholee_93/AWS-ELB-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-mfk4dpjrd6
