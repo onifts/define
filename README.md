@@ -49,4 +49,14 @@
 - https://sg.godaddy.com/
 - https://www.gabia.com/
 
+# Load Balancer
+
+- Scale Up : Server가 더 빠르게 동작하기 위해 하드웨어 성능을 올리는 방법 
+- Scale Out : 하나의 Server보다는 여러대의 Server를 나눠서 일을 하는 방법 
+  - 장점 
+  - 1) 하드웨어 향상하는 비용보다 서버 한대 추가 비용이 더 적습니다. 
+  - 2) 여러 대의 Server 덕분에 무중단 서비스를 제공할 수 있습니다. 
+  - 여러대의 Server에게 균등하게 Traffic을 분산시켜주는 역할을 하는 것이 Load Balancer 입니다. 
+  
+
 
