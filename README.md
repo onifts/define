@@ -49,6 +49,11 @@
   - 요금 
   - https://www.youtube.com/watch?v=L4xH1j7266A&feature=emb_title
 
+> IAM (Identity and Access Management)
+  - 인증 및 권한 
+  - 사용자, 접근 유형, 그룹, 권한 
+  - +MFA (Multi-Factor Authentication) : 2중 보안 (SMS,Email, Google Authenticator)
+
 > Ref
 - https://velog.io/@minholee_93/AWS-ELB-SSL-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-mfk4dpjrd6
 
