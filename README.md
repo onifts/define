@@ -31,7 +31,7 @@
 - SSL/TLS
 
 > ELB (Elastic Load Balancer)
-  - 
+  - ALB, NLB, CLB
   - EC2 2개 
   - sticky session 
 
