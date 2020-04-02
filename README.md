@@ -96,3 +96,9 @@
 # FPS (Frames Per Second, 초당 프레임) 
 - != 모니터 주사율
 
+# Parallax Scrolling 
+- 마우스를 스크롤할 때, 
+- 원거리에 있는 배경 이미지는 느리게 움직이게 하고, 
+- 근거리에 있는 사물 이미지는 빠르게 움직이도록 함으로써 입체감을 느낄 수 있게 만든 디자인 기법
+- https://ko.wikipedia.org/wiki/%ED%8C%A8%EB%9F%B4%EB%9F%AD%EC%8A%A4_%EC%8A%A4%ED%81%AC%EB%A1%A4%EB%A7%81
+
