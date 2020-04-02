@@ -93,4 +93,5 @@
   - 사용자의 IP를 Hashing 하여 분배하는 방식 
   - 사용자는 항상 같은 서버로 연결되는 것을 보장
   
+# FPS (Frames Per Second, 초당 프레임)
 
