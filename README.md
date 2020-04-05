@@ -108,7 +108,7 @@
 
 # hashHistory & browserHistory 
 - hashHistory : #, react-router  
-- browserHistory : react-router 
+- browserHistory : TLD, react-router 
 
 # UI/UX
 - https://materializecss.com/
