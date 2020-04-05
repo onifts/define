@@ -2,6 +2,15 @@
 
 > Definitions for dev ref
 
+# authentication 
+- JWT (Json Web Tokens)
+- express-session + connect-redis
+  - https://stackoverflow.com/questions/25532692/how-to-share-sessions-with-socket-io-1-x-and-express-4-x
+
+> KeyWord
+- react nodejs express socket.io session 
+  - how to share session between express and socket.io 
+
 # protocol / domain / path / query string 
 - Ex. http://a.com/topic?id=1
   - https://pro-self-studier.tistory.com/76?category=664874
