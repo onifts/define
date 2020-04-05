@@ -107,7 +107,7 @@
 - virtualized list
 
 # hashHistory & browserHistory 
-- hashHistory : # 
+- hashHistory : #, react-router  
 - browserHistory : react-router 
 
 # UI/UX
