@@ -106,6 +106,10 @@
 - infinite scroll
 - virtualized list
 
+# hashHistory & browserHistory 
+- hashHistory : # 
+- browserHistory : react-router 
+
 # UI/UX
 - https://materializecss.com/
 - https://material-ui.com/
