@@ -3,7 +3,8 @@
 > Definitions for dev ref
 
 # protocol / domain / path / query string 
-- http://a.com/topic?id=1
+- Ex. http://a.com/topic?id=1
+  - https://pro-self-studier.tistory.com/76?category=664874
 
 # GCM, FCM 
 - GCM : Google Cloud Messaging 
