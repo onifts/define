@@ -2,6 +2,9 @@
 
 > Definitions for dev ref
 
+# protocol / domain / path / query string 
+- http://a.com/topic?id=1
+
 # GCM, FCM 
 - GCM : Google Cloud Messaging 
 - FCM : Firebase Cloud Messaging 
