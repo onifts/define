@@ -9,7 +9,7 @@
 
 > KeyWord
 - react nodejs express socket.io session 
-  - how to share session between express and socket.io 
+  - how to share session between express and socket.io ?
 
 # protocol / domain / path / query string 
 - Ex. http://a.com/topic?id=1
