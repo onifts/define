@@ -107,8 +107,8 @@
 - virtualized list
 
 # hashHistory & browserHistory 
-- hashHistory : #, react-router  
-- browserHistory : TLD, react-router 
+- hashHistory (해시 기록) : #, react-router
+- browserHistory (브라우저 기록) : TLD, react-router 
 
 # UI/UX
 - https://materializecss.com/
