@@ -125,6 +125,6 @@
 # UI/UX
 - https://materializecss.com/
 - https://material-ui.com/
-
+- https://lottiefiles.com/
 
 
