@@ -4,6 +4,8 @@
 
 # authentication 
 - JWT (Json Web Tokens)
+  - https://jwt.io/
+  - https://velopert.com/2389 
 - express-session + connect-redis
   - https://stackoverflow.com/questions/25532692/how-to-share-sessions-with-socket-io-1-x-and-express-4-x
 
