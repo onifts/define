@@ -125,6 +125,7 @@
 # UI/UX
 - https://materializecss.com/
 - https://material-ui.com/
+- https://www.telerik.com/
 
 # Animation 
 - 1) react-motion 
@@ -141,7 +142,6 @@
   - https://github.com/chenqingspring/react-lottie
   - https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59
   - https://github.com/google-fabric/velocity-react
-  - https://www.telerik.com/kendo-react-ui/components/animation/stacked/
 
 # react example 
   - https://reactjsexample.com/
