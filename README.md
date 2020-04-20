@@ -127,10 +127,20 @@
 - https://material-ui.com/
 
 # Animation 
-- https://github.com/chenglou/react-motion
-- https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos
-- https://lottiefiles.com/
-- https://github.com/chenqingspring/react-lottie
-- https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59
+- 1) react-motion 
+  - https://github.com/chenglou/react-motion
+  - https://github.com/chenglou/react-motion/wiki/Gallery-of-third-party-React-Motion-demos
+- 2) react-spring 
+  - https://www.react-spring.io/docs/hooks/examples
+- 3) react-animations
+  - https://github.com/FormidableLabs/react-animations
+- 4) react-reveal
+  - https://www.react-reveal.com/
+- 5) ?
+  - https://lottiefiles.com/
+  - https://github.com/chenqingspring/react-lottie
+  - https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59
+  - https://github.com/google-fabric/velocity-react
 
-
+# react example 
+  - https://reactjsexample.com/
