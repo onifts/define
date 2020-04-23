@@ -8,6 +8,9 @@
   - https://velopert.com/2389 
 - express-session + connect-redis
   - https://stackoverflow.com/questions/25532692/how-to-share-sessions-with-socket-io-1-x-and-express-4-x
+- XSS (Cross-Site Scripting) 
+  - 웹페이지에 악성 스트립트를 삽입할 수 있는 취약점
+    - nodejs - sanitize-html
 
 > KeyWord
 - react nodejs express socket.io session 
