@@ -87,6 +87,9 @@
 - https://tenor.com/
 - https://giphy.com/
 
+# Cache Rendering 
+- LRU (Least Recently Used) Cache 
+
 # Domain
 
 - https://www.viaweb.co.kr/
