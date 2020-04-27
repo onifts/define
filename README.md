@@ -90,6 +90,9 @@
 # Cache Rendering 
 - LRU (Least Recently Used) Cache 
 
+# XHR (XMLHttpRequest)
+- Ajax 요청을 생성하는 JavaScript API 
+
 # Domain
 
 - https://www.viaweb.co.kr/
