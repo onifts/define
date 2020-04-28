@@ -93,6 +93,8 @@
 # XHR (XMLHttpRequest)
 - Ajax 요청을 생성하는 JavaScript API 
 
+# VoIP (Voice over Internet Protocol)
+
 # Domain
 
 - https://www.viaweb.co.kr/
