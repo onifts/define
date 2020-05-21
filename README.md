@@ -154,5 +154,21 @@
   - https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59
   - https://github.com/google-fabric/velocity-react
 
+# Software Versioninng (Version 관리)
+- major.minor[.build[.revision]] or major.minor[.maintenance[.build]]
+- Ex. vA.B.C.D => v1.2.3.4
+- A : 
+  - 0 : 알파 버전 (alpha)
+  - 1 : 베타 버전 (beta)
+  - 2 : 발매 버전 후보 (release candidate)
+  - 3 : 발매 버전 (final release)
+- Release Number . Major Number . Minor Number
+  - Release Number: 1로 시작해서 전체를 뒤엎을 정도로 큰 변화가 발생했을 때 이 수치를 올린다. 
+    - (영화 속편이 나오면 2편 혹은 투(two)이라는 이름을 붙이듯 말이다.)
+  - Major Number: 0으로 시작해서 주요 기능의 추가나 변경 등 사용상 혹은 컨텐츠의 주요 변화가 발생했을 때 1혹은 무작위로 증가한다. 
+    - 간혹 알파벳이 붙기도 하는데 예를 들어 Beta(테스트버전)의 경우 b를 숫자 뒤에 붙이는 경향이 있다.
+  - Minor Number: 0으로 시작해서 버그 수정 등 미미한 변화가 발생하면 1씩 혹은 무작위로 증가한다. 
+    - 역시 개발사 정책에 따라 특정 알파벳이 붙을 수도 있다.
+
 # react example 
   - https://reactjsexample.com/
