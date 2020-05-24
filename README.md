@@ -9,6 +9,7 @@
 - express-session + connect-redis
   - https://stackoverflow.com/questions/25532692/how-to-share-sessions-with-socket-io-1-x-and-express-4-x
 - sokcet.io + redis,  
+  - https://socket.io/docs/using-multiple-nodes/
 - redis server
   - https://medium.com/@dlaudtjr07/redis-redis-%EA%B0%9C%EB%85%90-aws-ec2%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-a510cdb9731e
   - https://alsyean.tistory.com/51
