@@ -138,6 +138,12 @@
 - infinite scroll
 - virtualized list
 
+# Calendar 
+- schedule calendar 
+  - https://fullcalendar.io/
+  - http://jquense.github.io/react-big-calendar/examples/index.html
+  - https://devexpress.github.io/devextreme-reactive/react/scheduler/
+
 # UI/UX
 - https://materializecss.com/
 - https://material-ui.com/
