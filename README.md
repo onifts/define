@@ -19,6 +19,13 @@
 - ├── LICENSE
 - └── package.json
 
+- npm adduser
+- npm login 
+- npm logout 
+- npm whoami
+- npm install ../my_npm_module
+- npm publish 
+
 # authentication 
 - JWT (Json Web Tokens)
   - https://jwt.io/
