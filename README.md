@@ -10,15 +10,14 @@
 - https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html
 
 # npm (Nodejs Package Manager) 
-- 
-my_npm_module/
-├── dist/
-├── examples/
-├── lib/
-├── .gitignore
-├── .npmignore
-├── LICENSE
-└── package.json
+- my_npm_module/
+- ├── dist/       // 배포용 
+- ├── examples/   // sample 
+- ├── lib/        // source 
+- ├── .gitignore
+- ├── .npmignore
+- ├── LICENSE
+- └── package.json
 
 # authentication 
 - JWT (Json Web Tokens)
