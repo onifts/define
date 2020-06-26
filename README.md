@@ -9,6 +9,17 @@
 - platform      : 平台, 프로그램 실행 환경 
 - https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html
 
+# npm (Nodejs Package Manager) 
+- 
+my_npm_module/
+├── dist/
+├── examples/
+├── lib/
+├── .gitignore
+├── .npmignore
+├── LICENSE
+└── package.json
+
 # authentication 
 - JWT (Json Web Tokens)
   - https://jwt.io/
