@@ -26,6 +26,8 @@
 - npm install ../my_npm_module
 - npm publish 
 
+- https://heropy.blog/2019/01/31/node-js-npm-module-publish/
+
 # authentication 
 - JWT (Json Web Tokens)
   - https://jwt.io/
