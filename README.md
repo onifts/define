@@ -6,7 +6,7 @@
 - library       : 库,  프로그램 필요한 기능 - jQuery는 javascript의 library
 - framework     : 框架, 프로그램 기본 구조 (bone)
 - architecture  : 结构, 프로그램 주요 구조 설계 
-- platform      : 平台, 프로그램 실행 환경 
+- platform      : 平台, 프로그램 실행 환경 - Node.js는 software platform 
 - https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html
 
 # npm (Nodejs Package Manager) 
