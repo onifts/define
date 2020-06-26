@@ -4,7 +4,7 @@
 
 # library, framework, architecture, platform 
 - library       : 库,  프로그램 필요한 기능 - jQuery,React는 javascript의 library
-- framework     : 框架, 프로그램 기본 구조 (bone) - gatsby는 open source framework
+- framework     : 框架, 프로그램 기본 구조 (bone) - Gatsby is a free and open source framework based on React
 - architecture  : 结构, 프로그램 주요 구조 설계 
 - platform      : 平台, 프로그램 실행 환경 - Node.js는 software platform 
 - https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html
