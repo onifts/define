@@ -8,6 +8,9 @@
 - architecture  : 结构, 프로그램 주요 구조 설계 
 - platform      : 平台, 프로그램 실행 환경 
 
+- ref 
+- https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html
+
 # authentication 
 - JWT (Json Web Tokens)
   - https://jwt.io/
