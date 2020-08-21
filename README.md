@@ -2,6 +2,9 @@
 
 > Definitions for dev ref
 
+# ML (Machine Learning) 
+- TensorFlow 
+
 # HLS (Http Live Streaming) 
 - Apple 에서 만든 방법 
 - 전통적인 방식 : RTSP(Real-Time Streaming Protocol) 
