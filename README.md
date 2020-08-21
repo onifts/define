@@ -2,6 +2,23 @@
 
 > Definitions for dev ref
 
+# HLS (Http Live Streaming) 
+- Apple 에서 만든 방법 
+- 전통적인 방식 : RTSP(Real-Time Streaming Protocol) 
+  - 단점 
+    - 너무 비싸다 
+    - NAT(Network Address Translator)를 많이 쓰고 있는 환경에서는 서비스가 원활하지 않은 문제가 있다
+- m3u8 포맷, ts 파일
+  - .m3u8: 스트리밍할 동영상을 분할한 파일(.ts 파일)들의 정보가 순차적으로 저장되어있는 파일입니다.
+  - .ts: 분할된 동영상 파일이라고 생각하시면 될 것 같습니다. (TypeScript 아닙니다.)
+- 스트리밍의 대략적인 흐름은 아래와 같습니다.
+  - 클라이언트는 .m3u8 파일을 요청한다.
+  - 서버는 .m3u8 파일을 응답한다.
+  - 클라이언트는 .m3u8 파일을 읽고, 재생 시간에 맞춰서 .ts 파일을 순차적으로 요청한다.
+  - 서버는 .ts 파일을 응답한다.
+- Ref 
+  - https://medium.com/@HoseungJang/node-js-express-hls%EB%A1%9C-%EB%8F%99%EC%98%81%EC%83%81-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%ED%95%98%EA%B8%B0-46006408a0e6
+
 # library, framework, architecture, platform 
 - library       : 库,  프로그램 필요한 기능 - jQuery,React는 javascript의 library
 - framework     : 框架, 프로그램 기본 구조 (bone) - Gatsby is a free and open source framework based on React
