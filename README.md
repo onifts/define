@@ -2,6 +2,10 @@
 
 > Definitions for dev ref
 
+# Game Back-end 
+- Ref
+  - http://buildnewgames.com/real-time-multiplayer/
+
 # ML (Machine Learning) 
 - TensorFlow 
 
