@@ -7,6 +7,7 @@
   - Multiplayer Game Server for Node.js
   - https://colyseus.io/#showcase
   - https://github.com/colyseus/colyseus
+  - https://colyseus-pixijs-boilerplate.herokuapp.com/
 - Ref
   - http://buildnewgames.com/real-time-multiplayer/
 
