@@ -3,6 +3,10 @@
 > Definitions for dev ref
 
 # Game Back-end 
+- Colyseus 
+  - Multiplayer Game Server for Node.js
+  - https://colyseus.io/#showcase
+  - https://github.com/colyseus/colyseus
 - Ref
   - http://buildnewgames.com/real-time-multiplayer/
 
