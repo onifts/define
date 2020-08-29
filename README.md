@@ -14,7 +14,8 @@
 
 - 공개키 암호화 
   - Asymmetric (비대칭 키 암호)
-  - public key / private key => RSA 알고리즘 사용하여 키 쌍을 생성  
+  - public key / private key 
+    - RSA 알고리즘 사용하여 키 쌍을 생성  
   - public key 는 누구한테든 베포한다
   - private key 는 나만 가지고 있다 
   - public key 를 가지고 있는 누군가는 메시지를 해당 키로 암호화 해서 보낸다
