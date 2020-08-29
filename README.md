@@ -24,7 +24,10 @@
   - private key 로 암호화 한 메시지는 대응되는 public key 로만 풀수 있다 
   - 해당 암호화는 private key 를 가지고 있는 사람만 가능하다 
   - 즉 암호화 서명을 할 수 있는 사람은 딱 한 사람(private key 소유자) 이다.
-  
+
+- Ref
+  - http://blog.naver.com/PostView.nhn?blogId=on21life&logNo=221381485211&from=search&redirect=Log&widgetTypeCall=true&directAccess=false
+  - https://medium.com/@sobly/%EA%B0%80%EC%83%81%ED%99%94%ED%8F%90-%EC%A7%80%EA%B0%91%EC%97%90%EC%84%9C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94-%EA%B3%B5%EA%B0%9C%ED%82%A4%EC%99%80-%EA%B0%9C%EC%9D%B8%ED%82%A4%EC%9D%98-%EC%9B%90%EB%A6%AC-4c87a5223041
 
 # Turn-Based Game Back-end 
 - Colyseus 
