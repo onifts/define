@@ -2,6 +2,29 @@
 
 > Definitions for dev ref
 
+# PGP (Pretty Good Privacy) 암호화 
+- open source, 암호화 소프트웨어, RFC 3156 표준화 
+- 크게 2개 기능 : 인증 기능 / 암호화 기능 
+- 서명 -> 암호화 -> 복호화 -> 인증 
+- 응용 
+  - (초기) 이메일 메시지와 첨부파일 보호 
+  - 디지털 서명 
+  - 전체 디스크 암호화 
+  - 네트워크 보안 
+
+- 공개키 암호화 
+  - public key / private key 
+  - public key 는 누구한테든 베포한다
+  - private key 는 나만 가지고 있다 
+  - public key 를 가지고 있는 누군가는 메시지를 해당 키로 암호화 해서 보낸다
+  - 해당 메시지는 private key 로만 풀수 있다 
+- 전자서명 
+  - 전자서명에서 공개키 암호화 사용은 반대로 한다 
+  - private key 로 암호화 한 메시지는 대응되는 public key 로만 풀수 있다 
+  - 해당 암호화는 private key 를 가지고 있는 사람만 가능하다 
+  - 즉 암호화 서명을 할 수 있는 사람은 딱 한 사람(private key 소유자) 이다.
+  
+
 # Turn-Based Game Back-end 
 - Colyseus 
   - Multiplayer Game Server for Node.js
