@@ -5,6 +5,7 @@
 # PGP (Pretty Good Privacy) 암호화 
 - open source, 암호화 소프트웨어, RFC 3156 표준화, OpenPGP 프로토콜  
 - 크게 2개 기능 : 인증 기능 / 암호화 기능 
+  - Asymmetric (비대칭 키 암호)
 - 서명 -> 암호화 -> 복호화 -> 인증 
 - 응용 
   - (초기) 이메일 메시지와 첨부파일 보호 
