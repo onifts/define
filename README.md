@@ -236,6 +236,7 @@
 - https://materializecss.com/
 - https://material-ui.com/
 - https://www.telerik.com/
+- https://www.davidhu.io/react-spinners/
 
 # Animation 
 - 1) react-motion 
