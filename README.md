@@ -253,6 +253,9 @@
   - https://github.com/chenqingspring/react-lottie
   - https://levelup.gitconnected.com/master-ux-with-react-in-2020-four-ways-to-upgrade-your-react-app-user-experience-a053b3ffbf59
   - https://github.com/google-fabric/velocity-react
+- 6) drag list 
+  - https://github.com/mac-s-g/react-smooth-draggable-list/
+  - https://github.com/StreakYC/react-draggable-list
 
 # Software Versioninng (Version 관리)
 - major.minor[.build[.revision]] or major.minor[.maintenance[.build]]
